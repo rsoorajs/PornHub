@@ -8,7 +8,7 @@ cfscrape
 cryptg
 emoji
 googletrans
-google_images_download
+google_images_download==2.7.1
 google-api-python-client==1.8.0
 google_auth_oauthlib
 gsearch>=1.6.0
