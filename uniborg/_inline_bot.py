@@ -85,7 +85,7 @@ if Config.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
             )
         elif query.startswith("bhoot"):
             result = builder.article(
-                "@r4v4n4: Bhagwaan Sabko GF De",
+                "@r4v4n4: Bhoot aur Choot dono tumhe milegi ek din",
                 text=f"[bhoot](https://da.gd/ovpt5)",
                 buttons=[],
                 link_preview=True
@@ -126,9 +126,9 @@ if Config.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
 **Verified Account:** ✅
 **Official Website:** https://ravanaisdrunk.site.live [⠀](https://telegra.ph/file/b0604ea53360cd3858ec5.mp4)
 
-**Pithun 3.8.2 (default, Feb 27 2020, 21:41:26)** 
-**[GCC 7.4.0]**
-**Talethrun 1.11.3**
+**3.8.3 (default, May 19 2020, 11:40:54)** 
+**[GCC 7.5.0]**
+**Talethrun 1.14.0**
 
 **Custom Built Fork:** https://github.com/ravana69/Pornhub""",
                 buttons=[
@@ -138,7 +138,7 @@ if Config.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
                         "❕❗Deploy Me❗❕", "https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fravana69%2FPornHub%2F&template=https%3A%2F%2Fgithub.com%2Fravana69%2FPornHub%2F")],
                     [custom.Button.url("🔰Update Fork🔰", "tg://need_update_for_some_feature"), custom.Button.url(
                         "✳️Fork Boost✳️", "tg://some_unsupported_feature"), custom.Button.url(
-                        "📤Cloud Torrent📥", "https://github.com/ravana69/cloudtorrent")]
+                        "📤Cloud Torrent📥", "https://github.com/ravana69/oneclickrun")]
                 ],
                 link_preview=True
             )
