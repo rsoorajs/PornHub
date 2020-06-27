@@ -12,8 +12,8 @@ lodu use ==>> my.telegram.com (vpn use karna) <<==
 Apna Telegram Account login kar btc
 Click on API Development Tools Blah Blah Maa ki chu
 Create a new application, by entering the required details Maa ka bhosda""")
-APP_ID = int(input("Madarchod Enter APP ID here: "))
-API_HASH = input("Gandu ab API HASH daal: ")
+APP_ID = int(input("Madarchod APP ID Daal Behen Ke Lawde: "))
+API_HASH = input("Gandu Khush Matt Ho Ab API HASH daal: ")
 
 with TelegramClient(StringSession(), APP_ID, API_HASH) as client:
     print(client.session.save())
