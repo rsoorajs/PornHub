@@ -1,4 +1,4 @@
-**#Warning: Use this repo at your own risk**
+**#Warning: This Repo Will Ban Your Telegram Account**
 
 **Step1: Use Termux & Get HU String.**
 
